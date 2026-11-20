@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hélio 👋
 
-<!--
-**DevHBatalha/DevHBatalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aeronautical Sciences graduate | Data Analytics & Python
 
-Here are some ideas to get you started:
+I’m building practical projects that connect data analysis with my background in aeronautics, manufacturing and optics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BSc in Aeronautical Sciences, specialising in aircraft maintenance
+- 📊 Currently developing my skills in data analytics with Python, SQL, Excel and Power BI
+- 🧰 Exploring pandas, NumPy, Matplotlib and data visualisation
+- 🌐 Also have experience with web development using JavaScript, React and Next.js
+- ✈️ Interested in aviation, automotive and optical data projects
+
+## What you’ll find here
+
+Hands-on learning projects, data analyses and software experiments. I’m focused on clear documentation, useful questions and steadily improving each project.
+
+## Languages
+
+Portuguese (native) · English (beginner)
